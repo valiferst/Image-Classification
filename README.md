@@ -1,4 +1,7 @@
-# Image Classification
+# Image Classification Fork
+
+I forked this repository for my own purposes, to get used to git version controll.
+This is a slightly changed version of the introductionary deep-learning example of image recognition with Keras and the Keras dataset cifar-10  
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/tensorflow)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aritzLizoain/Image-Classification)
